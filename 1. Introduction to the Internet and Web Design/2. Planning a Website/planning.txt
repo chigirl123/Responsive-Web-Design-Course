@@ -1,0 +1,69 @@
+* Planning a Website
+When visiting a physical retail store, visitors are more likely to make a purchase if the store is clean and well organized and offers quality products and services. Likewise, computer users have several expectations when visiting a website. They expect the website to load quickly in the browser. If a website takes more than a few seconds to load, a visitor is likely to leave and find another site, possibly belonging to a competitor. Website visitors also expect an attractive design and color scheme that enhances the experience of visiting the site and makes it easy to read and view information. They expect a clear navigation system that helps them quickly find the products, services, or information they are seeking. A poor design, distracting color scheme, or confusing website navigation tools also prompt visitors to switch to another website. An attractive, useful, and well-organized website is not created by accident. Building a successful website starts with a solid strategic plan.
+
+Web designers begin planning activities by meeting with key business personnel to ask several important questions to understand the purpose of the website and the goals of the business. If you are a web designer working as a consultant or contractor, you meet with your clients to plan the website. If you are a web designer providing services within an organization, you meet with decision makers and others who are sponsoring the web design project. In either case, you begin by identifying the purpose of the website and goals of the business to help shape the design and type of website you are developing.
+
+* Purpose of the Website
+The purpose of a commercial business website is related to the goal of selling products or services. A business can take a direct approach and use a website to sell products and services through e-commerce or through information that prompts website users to visit a physical location such as a store or restaurant. As an alternative, a business can take an indirect approach and use a website to generate leads to potential customers, promote the expertise of the business, raise the public profile of the business, or inform and educate its customers. Each purpose demands a different type of website and design. For example, if the purpose of a website is to serve as an online store, the website should allow easy access to product information, reviews, and
+e-commerce tools. If the purpose of the website is to build a company’s reputation, the
+website should feature articles about the company, its employees, and its products and
+integrate with social media sites such as Facebook. Every business needs to have a mission statement that clearly addresses the purpose and goal of the business. For example, the mission statement of a bank might be “Our mission is to provide world-class service while helping our customers achieve their financial goals.” The business website should promote the mission statement. Web designers often ask their clients for a copy of the mission statement and use it as the foundation for the website plan. The more you know about the purpose of the website, the more likely you are to be successful with a web development project.
+
+* Target Audience
+In addition to understanding the website’s purpose, you should understand the people who will use the website, also known as the target audience. Knowing the makeup of your target audience — including age, gender, general demographic background, and level of computer literacy — helps you design a website appropriate for them.
+
+* Multiplatform Display
+Today, users can access a website with computing devices ranging from desktop computers to laptops, tablets, and smartphones. In fact, people are rapidly increasing their use of a mobile device to access websites. According to Pew Research, young people in advanced and emerging economies are likely to have a smartphone and use it to access the Internet and participate in social media. Today, more than 80 percent of Americans own a smartphone, and more than 50 percent of smartphone owners use their phone to access the Internet. In addition, more than 30 percent of those who access the Internet do so exclusively with their smartphones. These trends are only expected to increase. Yet many webpages are designed for a large display screen on a desktop or laptop and do not translate well to the smaller screen of a tablet or smartphone. This problem leads to another question web developers must ask: “How do I consistently reach the people in my target audience when they are using so many difference devices?” The solution is to use responsive design, which allows you to create one website that provides an optimal viewing experience across a range of devices. 
+
+* Wireframe
+Before web designers actually start creating the first webpage for a website, they sketch the design using a wireframe. A wireframe is a simple, visual guide that clearly identifies the location of main webpage elements, such as the navigation area, organization logo, content areas, and images. When you create a wireframe sketch for your webpages, use lines and boxes
+
+* Site Map
+A site map is a planning tool that lists or displays all the pages on a website and indicates how they are related to each other. In other words, a site map shows the structure of a website. Begin defining the structure of a website by identifying the information to provide and then organize that information into divisions using the organizing method that makes the most sense for the content. For example, if the website offers three types of products for sale, organize the site by product category. If the website provides training, organize the site in a step-by-step sequence.
+
+* Graphics
+Graphics add visual appeal to a webpage and enhance the visitor’s perception of your products and services. Be sure to use appropriate graphics on your site, those that communicate your brand, products, and services.
+
+* Navigation
+As mentioned previously, the navigation of your website should be clear and concise. Each webpage should have a designated navigation area with links to other pages in the site. The navigation area should be prominent and easy to use
+
+* Typography
+The use of effective typography, or fonts and font styles, enhances the visual appeal of a website. Above all, the text must be legible or the website is useless. Typography also should promote the purpose and goal of the website.
+
+* Color
+All websites use color, even if the colors are black and white. Select a limited number of coordinated colors that help promote your purpose and brand. The combination of colors, also called a color scheme, contributes to the appeal and legibility of the website. Font and background colors must provide high color contrast for readability, so use dark text on a light background or light text on a dark background. Likewise, avoid a color combination such as a primary red background with yellow text, which is hard on the eyes. Aim to strike a balance among the background color, text color, and the color that represents your brand. Many successful color schemes have one main color, such as medium blue, and add at least one lighter and darker shade of the same color, such as sky blue and navy. Even a single shade can serve as a color scheme.
+
+* Understanding the Basics of HTML
+Webpages are created using Hypertext Markup Language (HTML), which is an authoring language used to create documents for the web. HTML consists of a set of special instructions called tags to define the structure and layout of content in a webpage. A browser reads the HTML tags to determine how to display the webpage content on a screen. Because the HTML tags define or “mark up” the content on the webpage, HTML is considered a markup language rather than a traditional programming language. HTML has evolved through several versions from the initial public release of HTML 1.0 in 1989 to the current version, HTML 5. Each version has expanded the capabilities of the language.
+
+* HTML Elements and Attributes
+A webpage is a file that contains both content and HTML tags and is saved as an HTML document. HTML tags mark the text to define how it should appear when viewed in a browser. HTML includes dozens of tags that describe the structure of webpages and create links to other content. For instance, the HTML tags <nav> and </nav> mark the start and end of a navigation area, while <html> and </html> indicate the start and end of a webpage. An HTML element consists of everything from the start tag to the end tag, including content, and represents a distinct part of a webpage such as a paragraph or heading. For example, <title> Webpage Example </title> is an HTML element that sets the title of a webpage. In common usage, when web designers say “Use a p element to define a paragraph,” or something similar, they mean to use a starting <p> tag to mark the beginning of the paragraph and an ending </p> tag to mark the end of the paragraph.
+
+You can enhance HTML elements by using attributes, which define additional characteristics, or properties, of the element such as the width and height of an image. An attribute includes a name, such as width, and can also include a value, such as 300, which sets the width of an element. Attributes are included within the element’s start tag.
+
+HTML combines tags and descriptive attributes that define how a document should appear in a web browser. HTML elements include headings, paragraphs, hyperlinks, lists, and images. Most HTML elements have a start tag and an end tag and follow the same rules, or syntax, which determine how the elements should be written so they are interpreted correctly by the browser. These HTML elements are called paired tags and use the syntax <start tag> content </end tag>, which has the following meaning:
+    • HTML elements begin with a start tag, or opening tag, such as <title>.
+    • HTML elements finish with an end tag, or closing tag, such as </title>.
+    • Content is inserted between the start and end tags.
+Some HTML elements are void of content. They are called empty, or void, tags. Examples of empty tags are <br> for a line break and <hr> for a thematic break. The syntax for empty tags is <tag>.
+
+* HTML 5
+With its debut in 2008, HTML 5 is the most recent version of HTML. HTML 5.2 was introduced in 2017. HTML 5 introduces several new elements such as header, nav, main, and footer to better define the areas of a webpage. They are classified as structural elements because they define the structure of a webpage. These new elements also are considered semantic HTML elements because they provide meaning about the content of the tags. (The term semantic refers to the meaning of words or ideas.) For example, <header> is a semantic tag because it defines content that appears at the top of a webpage. The name and purpose of the <header> tag reflect its meaning. On the other hand, <b>, for bold, is not a semantic tag because it defines only how content should look, not what it means. HTML 5 also provides a more flexible approach to web development. For instance, with HTML 5, you can incorporate audio and video with the use of <audio> and <video> tags. These new features reduce the need for browser plugins, which are small programs that let webpages play sounds or videos, for example. This book shows HTML 5 tags and attributes that are currently supported by modern browsers. In December 2017, W3C introduced HTML 5.2. This update introduced new features, such as the dialog element. The W3C states that it intends to release annual revisions. At the time of this writing, HTML 5.3 is currently in draft form.
+
+* Understanding the Role of Other Web Programming Languages
+In addition to HTML, web developers use other web programming languages such as JavaScript and PHP to add interactivity and functionality. Although you can create websites without these languages, they are useful when you need to include features beyond the scope of HTML. You should be aware of these languages as you begin learning about web development.
+
+* JavaScript
+JavaScript is a popular scripting language used to create interactivity within a web browser. Common uses for JavaScript include creating popup windows and alert messages, displaying the current date, and validating form data. JavaScript is a client-side scripting language, which means that the browser processes it on the client computer. JavaScript files are typically named script with an .js file extension.
+JavaScript files are referenced within an HTML file through the use of a script
+element, as in <script src="script.js"></script>. Reference to this file is typically placed
+above the closing body tag.
+
+* jQuery
+jQuery is a library of JavaScript programs designed for easy integration onto a webpage. jQuery makes it easy for web developers to add JavaScript to a webpage. The JS Foundation, formerly known as the jQuery Foundation, (https://js.foundation) is a community of web developers that work together to create JavaScript ecosystem projects. Their mission is to “drive broad adoption and ongoing development of key JavaScript solutions and related technologies.” 
+
+* PHP
+PHP (Hypertext Preprocessor) is an open-source scripting language often used for common tasks such as writing to or querying a database located on a central server. PHP is a server-side scripting language, which means that the PHP script is processed at the server. The result of the PHP script is often an HTML webpage that is sent back to the client. Pages that contain PHP scripts must have file names that end with the file extension .php.
+
+* ASP
+ASP (Active Server Pages) is a server-side scripting technology from Microsoft used to accomplish many of the same server-side processing tasks as PHP. Pages that contain ASP scripts must have file names that end with the file extension .asp.
