@@ -1,0 +1,64 @@
+* Creating a Webpage Template
+A hallmark of a well-designed website is that its webpages have the same look and feel. In other words, most pages have the same layout and all the pages share the same color scheme, typography, and style of graphics. In addition, elements work the same way on each page. For example, the navigation bar appears in the same position on each page and uses the same colors, fonts, and font styles. Visitors select a link on the navigation bar the same way, such as by tapping or clicking a page name. The selected link then appears in a contrasting color.
+
+To make sure the webpages in a site share a standard layout, you can create a template, an HTML document that contains elements that should appear on each page. Instead of creating a webpage from scratch, open the template document in a text editor and save it using the name of the new webpage. You can then concentrate on adding content for that particular page rather than re-creating the basic required HTML elements and the structural elements. For the fitness website, you will create a template that includes the basic required HTML elements (the DOCTYPE declaration and the html, head, title, meta, and body elements) and the four HTML structural, semantic elements identified in the webpage wireframe: header, nav, main, and footer.
+
+* Practical: To Create a Webpage Template Document
+To create a webpage template, you create an HTML document with the HTML elements that define the webpage structure.
+1. Create a Template
+2. Add HTML5 Semantic Elements to a Webpage Template    
+    - header
+    - nav
+    - main
+    - footer
+3. Add a title to Webpage Template
+    "Forward Fitness Club"
+4. Add comment to Webpage Template
+    Type "<!-- This website template was created by: Student’s First Name Student’s Last Name -->" After the DOCTYPE
+
+* Heading Elements
+You use heading elements to provide a title or heading before a paragraph of text or section of a page. Headings indicate that a new topic is starting and typically identify or summarize the topic. On a webpage, headings appear in a larger font size than normal text, making it easy for users to quickly scan the page and identify its sections.
+
+Heading sizes, or levels, run from 1 (the largest) to 6 (the smallest). Heading level 1 is designed to mark major headings, while heading levels 2 to 6 are for subheadings. The start tag for heading level 1 is <h1> and the end tag is </h1>. The start tag for heading level 2 is <h2>, the end tag is </h2>, and so on.
+
+* Webpage Content
+After inserting the HTML tags and comments for a webpage template, add static content or content that will appear on every webpage, such as the business name or logo, the webpage links, and the footer information. Content is the text or other item that is displayed in a browser. Place content between the starting and ending tags Following is an example of content added between header tags:
+    <header>
+        <h1>Forward Fitness Club</h1>
+    </header>
+For the Forward Fitness Club website, the header area contains the business name, which will appear at the top of every page. Other tags that contain static content include the nav area, which contains links to all pages within the website and will remain the same on each page. In addition, the footer area, which contains the copyright notice and an email address, will remain the same throughout the website. Adding static content to a template saves time. Remember that the template will be used to create the webpages for the website. Because this content is meant to be displayed on each page, add it to the template once rather than to each page many times.
+
+5. To Add Text and Nonbreaking Spaces to the Nav Section
+Next, between the beginning and ending nav tags, add a paragraph element with the name of the links to the other pages. Why? The nav area is designed to contain hyperlinks to other pages within the website. To insert two spaces between each page name, use the nonbreaking space character entity &nbsp;.
+    - <p> Home &nbsp; &#9475; &nbsp;
+          About Us &nbsp; &#9475; &nbsp;
+          Classes &nbsp; &#9475; &nbsp;
+          Contact Us</p>
+
+6. To Add Content to the Header Section
+Now that the webpage template structure is complete, you can add static content that will appear on each webpage within the website. The header of each webpage in the fitness website should display the name of the business, Forward Fitness Club. For now, you enter the business name as text.
+    - <h1>Forward Fitness Club</h1>
+
+7. To Add Content and a Symbol to the Footer Section
+    - <p>&copy; Copyright 2021. All Rights Reserved</p>
+    - <p>forwardfitness@club.net</p>
+
+* Creating a Home Page Using a Webpage Template
+After creating a template for a website, you can save time by using the template to create the webpages in the site. The advantage of starting with a template is that it includes content and HTML elements that appear on every page. By opening the template and then saving it with a new name that corresponds to a page on the site, you save time, ensure consistency across the website, and avoid having to re-create repeating elements such as navigation bars. In the new webpage document, you can focus on developing the parts that are unique to that page.
+
+Now that you have created a template for the Forward Fitness Club website, use it to create the website home page. Recall from Our last class that the home page of a website is usually named index.html. Website home pages use this name for a practical reason. If someone uses a browser to enter a URL that includes the site’s domain but does not end with a file name, the browser looks for and displays the index.html page automatically.
+
+When you create the Forward Fitness Club home page from a template, the page includes a document title, HTML structural elements to organize the page, the business name in the header, navigation text, and a copyright notice and business email address in the footer. To complete the home page, you add three paragraphs to the main area. The first paragraph welcomes visitors to Forward Fitness Club and restates the business mission. The second paragraph describes the facility and the benefits of becoming a member. The third paragraph provides a strong call to action, which is an offer or instruction to visitors to contact the business to take advantage of a free one-week trial membership.
+
+To create the paragraphs in the main area, you use the paragraph (<p></p>) element, as you did in the nav area. The paragraph element has the following syntax: <p>content</p>
+
+Everything between the <p> and </p> tags is a single paragraph. Browsers add space before and after each paragraph element to separate paragraphs. In contrast, for a line break, browsers do not add space before and after the <br> tag.
+
+* To Create a Home Page Using a Webpage Template and Add Content
+Create the Forward Fitness Club home page by opening the webpage template and then saving the page with a new name in the root fitness folder. Why? Using a template saves time in coding because the basic wireframe for the page is already established in the template. As a document for one of the main pages of the site, the home page belongs in the root folder. You use the fitness template to create all the webpages for the website. The following steps create the home page for the fitness website using the webpage template.
+    - change the file name to index
+    - add <p>Welcome to Forward Fitness Club. Our mission is to help our clients meet their fitness and nutrition goals. </p> inside main.
+
+    - add <p>If you have struggled with getting healthy and need the motivation and resources to make a healthy lifestyle change, contact us today. Our facility includes state-of-the-art equipment, convenient group training classes, and nutrition tips and information to keep you healthy.</p> next.
+
+    - then fianlly add <p>We provide a FREE one-week membership so you can experience the benefits of our equipment and facility. This one-week trial gives you complete access to our equipment, training classes, and nutrition planning. Contact us today to start your free trial!</p>

@@ -1,0 +1,46 @@
+* Designing a Website
+Before you begin creating webpages for a website, you must have a solid web design plan. Designing a website includes planning, articulating the website’s purpose, identifying the target audience, creating a site map and wireframe, selecting graphics and colors to use in the site, and determining whether to design for an optimal viewing experience across a range of devices. Completing these activities helps ensure an effective design for your website.
+
+After Forward Fitness Club contacted you to develop its website, you scheduled time to meet with the owner and asked several questions to plan and design the website. During the meeting, you learned the needs of the business and website, as outlined in Table 2–1.
+
+Purpose of the Website
+    - To promote fitness services and gain new clients. The Forward Fitness Club mission: to facilitate a healthy lifestyle and help our clients meet their fitness and nutrition goals.
+
+Target Audience
+    - Forward Fitness Club customers are adults between the ages of 18 and 50 within the local community.
+
+Multiplatform Display
+    - Forward Fitness Club recognizes the growth in smartphone and tablet usage and wants a single website that provides an optimal viewing experience regardless of whether visitors are using a desktop, laptop, tablet, or smartphone.
+
+Wireframe and Site Map
+    - The initial website will consist of five webpages arranged in a hierarchal structure with links to the home page on every page. Each webpage will include a header area, navigation area, main content area, and footer area.
+
+Graphics 
+    - Forward Fitness Club wants to display its fitness equipment and logo to help with local branding. Photos of the facility, members, and staff will increase visual appeal.
+
+Color 
+    - Forward Fitness Club wants to use black and white as the primary colors for a clean, sophisticated look.
+
+Typography 
+    - To make the content easy to read, the website will use a serif font style for paragraphs,lists, and other body content, while providing contrast by using a sans serif font style for navigation links and headings.
+
+Accessibility 
+    - Standard accessibility attributes, such as alternative text for graphics, will be used to address accessibility.
+
+* Site Map
+Recall that a site map indicates how the pages in a website relate to each other. To create a site map, you first need to know how many pages to include in the website. The owner of Forward Fitness Club has many ideas for the website, including some ambitious ones. To keep the website simple for now while allowing room for growth, you and the owner agree that the initial website will have a total of five webpages titled Home, About Us, Classes, Nutrition, and Contact Us. Because each page will contain links to all pages and accommodate future growth, the website will use a modified hierarchal structure. The webpages will include the following content:
+    • Home page: Introduces the fitness center and its mission statement
+    • About Us page: Showcases the facility’s equipment and services
+    • Classes page: Includes a schedule of available group training and fitness classes
+    • Nutrition page: Provides nutrition tips and simple meal plans
+    • Contact Us page: Provides a phone number, email address, physical address, and form for potential
+
+* Wireframe
+In addition to the site map for the Forward Fitness Club website, you have sketched out a webpage wireframe. Recall that a wireframe depicts the layout of a webpage, including its major content areas. Forward Fitness Club wants to promote its brand by including its logo, so each page will contain a designated area called the header for the logo. The header is located at the top of a webpage and identifies the site, often by displaying the business name or logo. For easy navigation, each page also will have a horizontal list of links to the other pages in the site. These page links will appear below the header in the navigation area. An image banner below the navigation area will display a fitness image. The primary page content, or the main content area, will follow the image banner and will contain information that applies to the page, including headings, paragraphs of text, and images. Lastly, the footer will be located below the primary page content and will contain copyright and contact information.
+
+Recall from our last class that a semantic element provides meaning about the content of the element. For example, you use the nav element to define the navigation area. It is a semantic element because its name reflects the purpose of its content, which is to display links to other pages so visitors can navigate the website. Semantic elements reinforce the meaning of the information provided on the webpage. A semantic wireframe uses semantic elements to define the structure of a webpage.
+
+* File Management
+Websites use several types of files, including HTML files, image files, media such as audio and video files, and CSS files, which you learn about in future class. Even a simple website might use hundreds of files. Therefore, each site must follow a systematic method to organize its files. Before you begin to create your first HTML page, start by creating a folder and subfolders to contain and organize your website files.
+
+The main folder (also called the root folder) for the Forward Fitness Club website is the fitness folder. It contains all of the files and other folders for the website. The css folder will contain CSS files, which you create in later classes to format a webpage and its elements. The images folder will contain the Forward Fitness Club logo, photos, and other images to display on the webpages. The media folder will contain audio and video files. The scripts folder will contain files related to JavaScript.
