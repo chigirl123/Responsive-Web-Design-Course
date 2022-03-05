@@ -1,0 +1,20 @@
+* Introduction
+Building a website from scratch involves a lot of time and planning, which is one reason that professional web design services are in high demand. Some web designers have their own business and provide their services on contract to clients, who are people or other businesses that want to build or redesign a website. Other web designers work in larger organizations and provide their services to people within the organization, who are called stakeholders. As an introduction to basic website design and development, this course provides a foundation on which to build your web design skills.
+
+As discussed in the previous class, before you start building a website, you must plan it, which includes meeting with the clients or stakeholders to discover their needs, the purpose of the website, and their target audience. After developing a plan, you can start constructing the website by creating an HTML document and then adding the required basic HTML elements so visitors can display the webpage in a browser. Next, include HTML 5 elements to define the specific sections or areas of the webpage. This initial HTML document can serve as the template for the site. A template is a predefined webpage that contains a specific HTML structure to be used by all pages within the website. This chapter focuses on how to build a webpage template with HTML 5 elements and then use that template to create a home page.
+
+* Roadmap
+In this course, you will learn how to create a webpage.
+The following roadmap identifies general activities you will perform as you progress
+through this course:
+    1. create website folders to organize files.
+    2. create a template.
+    3. enter html 5 semantic elements in the document.
+    4. add comments and content to the document.
+    5. validate the document.
+    6. create and view the home page.
+
+* Project — Plan and Build a Website
+A local fitness center called Forward Fitness Club opened recently and needs a website to help promote its business. The business owner wants the website to showcase the club’s equipment, group fitness classes, nutrition information, and contact information. The owner hired you to plan and design the Forward Fitness Club website.
+
+The project in this course follows generally accepted guidelines for planning and building the webpage template. The template contains code and text including the document title, header, navigation area, and footer, which is repeated on each page of the Forward Fitness Club website. The template also includes comments to remind the web designer about the purpose of each section.

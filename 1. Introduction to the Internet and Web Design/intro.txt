@@ -1,5 +1,11 @@
 * Introduction
+<<<<<<< HEAD
 Name: Delight Emmanuel
+=======
+
+Name: Wilson Chinedu
+
+>>>>>>> 2264da7d5ea7fbcd1eef12b1f2a9f408d2bc6970
 Today, millions of people worldwide have access to the Internet, the world’s largest network. Billions of webpages providing information on any subject you can imagine are currently available on the web. People use the Internet to search for information, to communicate with others around the world, and to seek entertainment. Students use the Internet to register for classes, pay tuition, and find out final grades. Businesses and other organizations rely on the Internet and the web to sell products and services. Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS) are two of the technologies that make this possible.
 
 HTML 5.2 is the most recent version of HTML and is called HTML 5. Before exploring the details of creating webpages with HTML 5 and CSS, it is useful to look at how these technologies relate to the development of the Internet and the web. In this course, you learn some basics about the Internet and the web, and the rules both follow to allow computers to communicate with each other. You review types of websites and learn how to properly plan a website so that it is appealing and useful to your target audience. You also explore web browsers, HTML, and its associated key terms. Lastly, you create a basic webpage using a text editor.
